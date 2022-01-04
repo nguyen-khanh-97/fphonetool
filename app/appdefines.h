@@ -1,0 +1,6 @@
+#ifndef APPDEFINES_H
+#define APPDEFINES_H
+
+#define PROCESSING_INTERVAL 2000
+
+#endif // APPDEFINES_H

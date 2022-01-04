@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AccessibilityDialog.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Component/FButton.qml</file>
+        <file>qml/GetScreenInfoDialog.qml</file>
+        <file>qml/Component/SetParameterComponent.qml</file>
+    </qresource>
+</RCC>

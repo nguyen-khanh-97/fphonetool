@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resouce/ScreenDefine.json</file>
+    </qresource>
+</RCC>

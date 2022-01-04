@@ -1,0 +1,9 @@
+class QtAndroidASBLService {
+    PROP(bool asblStatus)
+
+    SLOT(void sendData(QString key, QVariant value));
+
+    SIGNAL(missionStatusChanged(int));
+    SIGNAL(asblServiceStatusChanged(int));
+    SIGNAL(broadcastData(QString key, QVariant value));
+}
