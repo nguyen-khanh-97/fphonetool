@@ -170,7 +170,7 @@ void LogHelper::initialize()
     initCkHttp(m_http);
     m_http.SetRequestHeader("Token", "df13e3b2-2801-11ec-a9da-985aeb8ef874");
     m_http.SetRequestHeader("Content-Type", "application/json");
-    m_dataForm["AppName"] = "F-Phone";
+    m_dataForm["AppName"] = "F-Phone-Tool";
     m_dataForm["device"] = m_device;
     m_dataForm["app_version"] = m_appVersion;
     m_dataForm["token"] = m_token;
